@@ -20,12 +20,12 @@
 ## How to use<br>
 > **Connection Script**<br><br>
 <img src="ScreenShots/connection.JPG" width="50%" height = "20%" ><br>
-<p style="font-family:comic-sans">Change the **Local Host** ,**Username**, **Password**, **Database**, According to your setup</p><br>
-> **Database Setup**<br><br>
-> <p style="font-family:comic-sans">Create the database name like the screenshot given below</p><br>
+Change the **Localhost** ,**Username**, **Password**, **Database**, According to your system setup.
+> **Database Setup**
+> Create the database name like the screenshot given below<br>
 <img src="ScreenShots/dbName.JPG" width="50%" height = "20%" ><br>
-> <p style="font-family:comic-sans">Create the table with the table name users and with the attributes exactly same like the screenshot given below</p><br>
+> Create the table with the table name users and with the attributes exactly same like the screenshot given below<br>
 <img src="ScreenShots/dbTableUsers.JPG" width="50%" height = "20%" ><br>
-> <p style="font-family:comic-sans">Create the table with the table name users_chats and with the attributes exactly same like the screenshot given below</p><br>
+> Create the table with the table name users_chats and with the attributes exactly same like the screenshot given below<br>
 <img src="ScreenShots/dbTableUsersChats.JPG" width="50%" height = "20%" ><br><br>
-> <p style="font-family:comic-sans; font-size:50px">ENJOY!</p>
+
