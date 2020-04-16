@@ -22,7 +22,7 @@
 <img src="ScreenShots/connection.JPG" width="50%" height = "20%" ><br>
 Change the **Local Host** ,**Username**, **Password**, **Database**, According to your setup
 > **Database Setup**<br><br>
-Create the database name like the screenshot given below<br><br>
+Create the database with name encircled in the screenshot given below<br><br>
 <img src="ScreenShots/dbName.JPG" width="50%" height = "20%" ><br>
 Create the table with the table name <b>users</b> and with the attributes exactly same like the screenshot given below<br><br>
 <img src="ScreenShots/dbTableUsers.JPG"><br>
