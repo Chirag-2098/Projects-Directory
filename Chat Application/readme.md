@@ -5,9 +5,6 @@
 
 ## Screenshots<br>
 
-> Login Page
-![Login] (ScreenShots/SignIn.jpg)
-
 > Login Page<br>
 <img src="ScreenShots/SignIn.jpg" width="50%" height = "20%"><br>
 > Dashboard<br>
