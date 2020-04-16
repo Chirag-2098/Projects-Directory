@@ -7,10 +7,6 @@
 
 > Login Page
 ![Login] (ScreenShots/SignIn.jpg)
-> Dashboard
-> Find Friends
-> Settings
-> Register Page
 
 > Login Page<br>
 <img src="ScreenShots/SignIn.jpg" width="50%" height = "20%"><br>
@@ -28,7 +24,7 @@
 > Connection Script<br>
 <img src="ScreenShots/connection.JPG" width="50%" height = "20%" ><br>
 <p style="font-family:comic-sans">Change the **Local Host** , **Username**, **Password**, **Database**. according to your setup</p><br>
->Database setup
+> Database Setup
 <p style="font-family:comic-sans">Create the database name like the screenshot given below</p><br>
 <img src="ScreenShots/dbName.JPG" width="50%" height = "20%" ><br>
 <p style="font-family:comic-sans">Create the table with the table name users and with the attributes exactly same like the screenshot given below</p><br>
