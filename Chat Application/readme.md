@@ -18,14 +18,14 @@
 
 
 ## How to use<br>
-> Connection Script<br>
+> **Connection Script**<br>
 <img src="ScreenShots/connection.JPG" width="50%" height = "20%" ><br>
 <p style="font-family:comic-sans">Change the **Local Host** , **Username**, **Password**, **Database**. according to your setup</p><br>
-> Database Setup
+> **Database Setup**<br>
 <p style="font-family:comic-sans">Create the database name like the screenshot given below</p><br>
 <img src="ScreenShots/dbName.JPG" width="50%" height = "20%" ><br>
 <p style="font-family:comic-sans">Create the table with the table name users and with the attributes exactly same like the screenshot given below</p><br>
 <img src="ScreenShots/dbTableUsers.JPG" width="50%" height = "20%" ><br>
 <p style="font-family:comic-sans">Create the table with the table name users_chats and with the attributes exactly same like the screenshot given below</p><br>
 <img src="ScreenShots/dbTableUsersChats.JPG" width="50%" height = "20%" ><br><br>
-<p style="font-family:comic-sans; font-size:extra-large">ENJOY!</p>
+<p style="font-family:comic-sans; font-size:50px">ENJOY!</p>
