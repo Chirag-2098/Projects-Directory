@@ -5,27 +5,27 @@
 
 ## Screenshots<br>
 
-> Login Page<br>
+> Login Page<br><br>
 <img src="ScreenShots/SignIn.jpg" width="50%" height = "20%"><br>
-> Dashboard<br>
+> Dashboard<br><br>
 <img src="ScreenShots/DashBoard.png" width="50%" height = "20%" ><br>
-> Find Friends<br>
+> Find Friends<br><br>
 <img src="ScreenShots/SearchPanel.png" width="50%" height = "20%" ><br>
-> Settings<br>
+> Settings<br><br>
 <img src="ScreenShots/settings.png" width="50%" height = "20%" ><br>
-> Register Page<br>
+> Register Page<br><br>
 <img src="ScreenShots/SignUp.png" width="50%" height = "20%" ><br>
 
 
-## How to use<br>
-> **Connection Script**<br>
+## How to use
+> **Connection Script**<br><br>
 <img src="ScreenShots/connection.JPG" width="50%" height = "20%" ><br>
-Change the **Localhost** ,**Username**, **Password**, **Database**, According to your system setup.
-> **Database Setup**<br>
-> Create the database name like the screenshot given below<br>
+Change the **Local Host** ,**Username**, **Password**, **Database**, According to your setup
+> **Database Setup**<br><br>
+Create the database name like the screenshot given below<br><br>
 <img src="ScreenShots/dbName.JPG" width="50%" height = "20%" ><br>
-> Create the table with the table name users and with the attributes exactly same like the screenshot given below<br>
-<img src="ScreenShots/dbTableUsers.JPG" width="50%" height = "20%" ><br>
-> Create the table with the table name users_chats and with the attributes exactly same like the screenshot given below<br>
-<img src="ScreenShots/dbTableUsersChats.JPG" width="50%" height = "20%" ><br><br>
-
+Create the table with the table name <b>users</b> and with the attributes exactly same like the screenshot given below<br><br>
+<img src="ScreenShots/dbTableUsers.JPG"><br>
+> Create the table with the table name <b>users_chats</b> and with the attributes exactly same like the screenshot given below<br><br>
+<img src="ScreenShots/dbTableUsersChats.JPG"><br><br>
+> ENJOY!
